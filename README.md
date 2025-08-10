@@ -26,5 +26,3 @@ The system is developed on a robust relational database using MySQL, with tables
 The Travel Booking Management System simplifies the travel planning process by integrating customer details, transportation options, destinations, bookings, and payments into a single platform. It enhances efficiency, reduces manual effort, and ensures a seamless experience for both users and administrators. By leveraging database technology and structured data management, the system delivers faster, more reliable, and enjoyable travel services.
 
 
-efficiency, reduces manual effort, and ensures a seamless experience for both users and administrators. By leveraging database technology and structured data management, the system delivers faster, more reliable, and enjoyable travel services.
-[11:34 AM, 8/10/2025] 🖤: 
